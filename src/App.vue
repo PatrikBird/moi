@@ -1,13 +1,13 @@
 <script setup lang="ts">
 useHead({
   title: 'Esti',
-  // meta: [
-  //   { name: 'description', content: 'Opinionated Vite Starter Template' },
-  //   {
-  //     name: 'theme-color',
-  //     content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
-  //   },
-  // ],
+  meta: [
+    { name: 'description', content: 'Opinionated Vite Starter Template' },
+    {
+      name: 'theme-color',
+      content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
+    },
+  ],
   // link: [
   //   {
   //     rel: 'icon',
@@ -19,5 +19,6 @@ useHead({
 </script>
 
 <template>
+  <TheNavbar />
   <RouterView />
 </template>

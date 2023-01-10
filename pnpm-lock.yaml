@@ -2,6 +2,8 @@ lockfileVersion: 5.4
 
 specifiers:
   '@antfu/eslint-config': ^0.34.1
+  '@iconify-json/bx': ^1.1.5
+  '@iconify-json/line-md': ^1.1.22
   '@vitejs/plugin-vue': ^4.0.0
   '@vueuse/core': ^9.10.0
   '@vueuse/head': ^1.0.22
@@ -31,6 +33,8 @@ dependencies:
 
 devDependencies:
   '@antfu/eslint-config': 0.34.1_iukboom6ndih5an6iafl45j2fe
+  '@iconify-json/bx': 1.1.5
+  '@iconify-json/line-md': 1.1.22
   '@vitejs/plugin-vue': 4.0.0_vite@4.0.4+vue@3.2.45
   autoprefixer: 10.4.13_postcss@8.4.21
   critters: 0.0.16
@@ -436,6 +440,18 @@ packages:
 
   /@humanwhocodes/object-schema/1.2.1:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
+    dev: true
+
+  /@iconify-json/bx/1.1.5:
+    resolution: {integrity: sha512-pP2LUm3lByMv8SttId7n1bP8jjgmYt1n01kDgdQKD1PNeCN+REFNUA/0hK/ZYP13C1tfNAQ0gTmxgLTPwH27/A==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/line-md/1.1.22:
+    resolution: {integrity: sha512-bvFgns1zKNh1p5wMZDgVWpVjh70jImSE5WRbMMDn7RCs6pEGAZCD+1Jpaw9foalJkZmB+QBIJhduasfD8rrGcw==}
+    dependencies:
+      '@iconify/types': 2.0.0
     dev: true
 
   /@iconify/types/2.0.0:
