@@ -11,7 +11,7 @@
 
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
 
-- 😃 [Use icons from any icon sets with classes](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+- 😃 Icons via [unplugin-icons](https://github.com/antfu/unplugin-icons) - Use any [Icon](https://icones.js.org/) with auto import
 
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API etc. directly
 
