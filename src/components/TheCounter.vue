@@ -12,6 +12,7 @@ const { count, inc, dec } = useCounter(props.initial)
     <button class="inc" @click="inc()">
       +
     </button>
+    <p>what</p>
     <button class="dec" @click="dec()">
       -
     </button>
