@@ -1,7 +1,6 @@
 # My Vue + Vite template
 
 ## Features
-### Base
 - ⚡️ [Vue](https://vuejs.org/), [Vite](https://vitejs.dev/), [pnpm](https://pnpm.io/)
 
 - 🗂 [File based routing](https://github.com/hannoeru/vite-plugin-pages) - create router config automatically based on folder structure
