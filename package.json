@@ -9,7 +9,7 @@
     "build": "vite-ssg build"
   },
   "dependencies": {
-    "@vueuse/core": "^9.13.0",
+    "@vueuse/core": "^10.0.2",
     "@vueuse/head": "^1.1.23",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
