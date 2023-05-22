@@ -15,7 +15,7 @@
     "vue-router": "^4.2.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.0",
+    "@antfu/eslint-config": "^0.39.1",
     "@iconify-json/bx": "^1.1.6",
     "@iconify-json/line-md": "^1.1.24",
     "@vitejs/plugin-vue": "^4.2.3",
@@ -27,7 +27,7 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.4",
-    "unplugin-auto-import": "^0.16.0",
+    "unplugin-auto-import": "^0.16.1",
     "unplugin-icons": "^0.16.1",
     "unplugin-vue-components": "^0.24.1",
     "vite": "^4.3.8",
